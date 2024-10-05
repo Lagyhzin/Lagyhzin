@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 <p align="left">👋 Hello! My name is Gabriel, and at the moment I am studying data visualization and learning more about development.</p>
  
@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://open.spotify.com/user/31alku2quxjcl5a6ulvf67f2xpse">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31alku2quxjcl5a6ulvf67f2xpse&count=5" alt="Spotify recently played"  />
   </a>
