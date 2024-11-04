@@ -21,10 +21,4 @@
   </div>
 
   ###
-
-<strong>🎧 What I'm Listening To</strong>
-
-  <a href="https://open.spotify.com/user/31alku2quxjcl5a6ulvf67f2xpse">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31alku2quxjcl5a6ulvf67f2xpse&count=5" alt="Spotify recently played" style="width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); display: block; margin-top: 10px;" />
-  </a>
 </div>
